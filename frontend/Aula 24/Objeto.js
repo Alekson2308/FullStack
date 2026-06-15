@@ -1,0 +1,171 @@
+const meusJogos = [
+  {
+    id: 1,
+    jogo: "Devil May Cry 5",
+    plataforma: "PC",
+    genero: "Hack and Slash",
+    status: "Zerado",
+  },
+  {
+    id: 2,
+    jogo: "Need For Speed 2015",
+    plataforma: "PC",
+    genero: "Corrida",
+    status: "Em Andamento",
+  },
+  {
+    id: 4,
+    jogo: "Need For Speed Payback",
+    plataforma: "PC",
+    genero: "Corrida",
+    status: "Não Iniciado",
+  },
+  {
+    id: 5,
+    jogo: "Need For Speed Heat",
+    plataforma: "PC",
+    genero: "Corrida",
+    status: "Em Andamento",
+  },
+  {
+    id: 6,
+    jogo: "Need For Speed Unbound",
+    plataforma: "PC",
+    genero: "Corrida",
+    status: "Não Iniciado",
+  },
+  {
+    id: 7,
+    jogo: "Need For Speed Rivals",
+    plataforma: "PC",
+    genero: "Corrida",
+    status: "Em Andamento",
+  },
+  {
+    id: 8,
+    jogo: "The Witcher",
+    plataforma: "PC",
+    genero: "RPG",
+    status: "Não Iniciado",
+  },
+  {
+    id: 8,
+    jogo: "The Witcher 2: Assassin of Kings",
+    plataforma: "PC",
+    genero: "RPG",
+    status: "Não Iniciado",
+  },
+  {
+    id: 10,
+    jogo: "The Witcher 3: Wild Hunt",
+    plataforma: "PC",
+    genero: "RPG",
+    status: "Não Iniciado",
+  },
+  {
+    id: 11,
+    jogo: "The Elder Scrolls V: Skyrim",
+    plataforma: "PC",
+    genero: "RPG",
+    status: "Em Andamento",
+  },
+  {
+    id: 12,
+    jogo: "Skylanders: Spyro's Adventure",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Não Iniciado",
+  },
+  {
+    id: 13,
+    jogo: "Skylanders: Giants",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Não Iniciado",
+  },
+  {
+    id: 14,
+    jogo: "Skylanders: Swap Force",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Não Iniciado",
+  },
+  {
+    id: 15,
+    jogo: "Skylanders: Trap Team",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Em Andamento",
+  },
+  {
+    id: 16,
+    jogo: "Skylanders: Superchargers",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Em Andamento",
+  },
+  {
+    id: 17,
+    jogo: "Skylanders: Imaginatos",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Não Iniciado",
+  },
+  {
+    id: 18,
+    jogo: "LEGO Dimensions",
+    plataforma: "Emulador",
+    genero: "Ação",
+    status: "Não Iniciado",
+  },
+  {
+    id: 19,
+    jogo: "Gran Turismo 4",
+    plataforma: "Emulador",
+    genero: "Corrida",
+    status: "Não Iniciado",
+  },
+  {
+    id: 20,
+    jogo: "Gran Turismo 5",
+    plataforma: "Emulador",
+    genero: "Corrida",
+    status: "Não Iniciado",
+  },
+  {
+    id: 21,
+    jogo: "Devil May Cry HD Collection",
+    plataforma: "PC",
+    genero: "Corrida",
+    status: "Não Iniciado",
+  },
+  {
+    id: 22,
+    jogo: "Devil May Cry 4 Special Edition",
+    plataforma: "PC",
+    genero: "Hack and Slash",
+    status: "Em Andamento",
+  },
+  {
+    id: 23,
+    jogo: "DMC: Devil May Cry",
+    plataforma: "PC",
+    genero: "Hack and Slash",
+    status: "Não Iniciado",
+  },
+  {
+    id: 24,
+    jogo: "Metal Gear Rising: Revengance",
+    plataforma: "PC",
+    genero: "Hack and Slash",
+    status: "Em Andamento",
+  },
+];
+
+//const pesquisa = meusJogos.find((id) => id.includes("Em Andamento"));
+
+//const pesquisa = meusJogos.find((jogo) => jogo.jogo.toLowerCase().includes === "Carros");
+
+const pesquisa = meusJogos.filter((jogo) => jogo.status == "Em Andamento");
+
+console.log("Resultado da Pesquisa:", pesquisa);

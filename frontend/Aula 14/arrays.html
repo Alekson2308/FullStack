@@ -1,0 +1,16 @@
+<script>
+    const personagens = ["Goku", "Naruto", "Luffy", "Gon", "Tanjiro", "Ichigo"];
+
+    document.write(`<h2> ${personagens[0]} </h2>`);
+    document.write(`<h2> Quantidade de personagens : ${personagens.length} </h2>`);
+    document.write(`<h2> Ultimo personagem : ${personagens[personagens.length -1]} </h2>`);
+
+
+    // for(let i = 0; i < personagens.length; i++) {
+    //     document.write(`<h3> Personagem ${i + 1}: ${personages[i]} </h3>`);
+    // }
+
+    for( let personagem of personagens ) {
+        document.write(`<h3> Personagem: ${personagem} </h3>`)
+    }
+</script>

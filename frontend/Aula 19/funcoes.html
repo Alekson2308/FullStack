@@ -1,0 +1,45 @@
+<script>
+  const num1 = Number(prompt("Digite o primeiro número"));
+  const num2 = Number(prompt("Digite o segundo número"));
+  const operador = prompt("Digite a operação (+, -, *, /, %): ");
+
+  function somar(n1, n2) {
+    return `A soma entre ${n1} e ${n2} é: ${n1 + n2}`;
+  }
+  function subtrarir(n1, n2) {
+    return `A subtração entre ${n1} e ${n2} é: ${n1 - n2}`;
+  }
+  function multiplicar(n1, n2) {
+    return `A multiplicação entre ${n1} e ${n2} é: ${n1 * n2}`;
+  }
+  function dividir(n1, n2) {
+    return `A divisão entre ${n1} e ${n2} é: ${n1 / n2}`;
+  }
+  function calcularModulo(n1, n2) {
+    return `O Módulo entre ${n1} e ${n2} é: ${n1 % n2}`;
+  }
+
+  function calcular (n1 = 1, n2 = 1, op = "+") {
+    switch (op) {
+      case "+":
+        return somar(n1, n2)
+        break;
+      case "-":
+        return subtrarir(n1, n2)
+        break;
+      case "*":
+        return multiplicar(n1, n2)
+        break;
+      case "/":
+        return dividir(n1, n2)
+        break;
+      case "%":
+        return calcularModulo(n1, n2)
+        break;
+      default:
+        return "Operador Inválido"
+    }
+  }
+
+  document.write(calcular(num1, num2, operador));
+</script>

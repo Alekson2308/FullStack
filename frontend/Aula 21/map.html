@@ -1,0 +1,13 @@
+<script>
+  const numeros = [95, 86, 43, 20, 53, 1];
+  filtradosMapeados = numeros
+    .filter(numero => numero % 2 === 0)
+    .map(numero => numero * 2);
+    
+  // const dobrados = numeros.map(numero => numero * 2)
+
+  document.write(`Números Originais: ${numeros} <br>`);
+  // document.write(`Números dobrados: ${dobrados} <br>`);
+  document.write(`Números pares mapeados: ${filtradosMapeados}<br>`);
+
+</script>

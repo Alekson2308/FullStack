@@ -1,0 +1,29 @@
+<script>
+  const animal = prompt("Digite um animal:");
+  let categoiria;
+
+  switch(animal) {
+    case "Gato":
+    case "Cachorro":
+    case "Ornintorrinco":
+      categoiria = "Mamifero";
+      break;
+      
+    case "Falcão":
+    case "Papagaio":
+    case "Canário":
+      categoiria = "Ave";
+      break;
+
+    case "Cobra":
+    case "Jacaré":
+    case "Tartaruga":
+      categoiria = "Réptil";
+      break;
+    default:
+     categoiria = "Animal Desconhecido."
+     break;  
+  }
+
+  document.write(`${categoiria}`)
+</script>

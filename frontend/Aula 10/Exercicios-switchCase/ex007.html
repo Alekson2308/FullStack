@@ -1,0 +1,18 @@
+<script>
+   const turno = prompt("Digite seu turno (M = Manhã, T = Tarde, N = Noite):").trim().toUpperCase();
+
+   switch(turno) {
+    case "M":
+     document.write("Bom Dia")
+     break;
+    case "T":
+     document.write("Boa Tarde")
+     break;
+    case "N":
+     document.write("Boa Noite")
+     break;
+    default:
+     document.write('Turno inválido')
+     break;
+   }
+</script>
