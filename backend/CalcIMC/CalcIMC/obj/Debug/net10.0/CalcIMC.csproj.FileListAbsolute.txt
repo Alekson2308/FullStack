@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\bin\Debug\net10.0\CalcIMC.exe
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\bin\Debug\net10.0\CalcIMC.deps.json
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\bin\Debug\net10.0\CalcIMC.runtimeconfig.json
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\bin\Debug\net10.0\CalcIMC.dll
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\bin\Debug\net10.0\CalcIMC.pdb
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.AssemblyInfo.cs
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.dll
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\refint\CalcIMC.dll
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.pdb
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\CalcIMC.genruntimeconfig.cache
+C:\Users\aluno\Documents\development\Alexandre Nascimento\backend\CalcIMC\CalcIMC\obj\Debug\net10.0\ref\CalcIMC.dll
