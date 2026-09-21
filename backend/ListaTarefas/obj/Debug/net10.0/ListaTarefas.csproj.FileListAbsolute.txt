@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ListaTarefas\bin\Debug\net10.0\ListaTarefas.exe
+C:\Users\Usuario\source\repos\ListaTarefas\bin\Debug\net10.0\ListaTarefas.deps.json
+C:\Users\Usuario\source\repos\ListaTarefas\bin\Debug\net10.0\ListaTarefas.runtimeconfig.json
+C:\Users\Usuario\source\repos\ListaTarefas\bin\Debug\net10.0\ListaTarefas.dll
+C:\Users\Usuario\source\repos\ListaTarefas\bin\Debug\net10.0\ListaTarefas.pdb
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.dll
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\refint\ListaTarefas.dll
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.pdb
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTarefas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ref\ListaTarefas.dll
+C:\Users\Usuario\source\repos\ListaTarefas\obj\Debug\net10.0\ListaTar.48A10EC2.Up2Date
