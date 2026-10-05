@@ -21,6 +21,10 @@
                 int posicaoAna = alunos.IndexOf("Ana");
                 Console.WriteLine("Posição da Ana: " + posicaoAna);
 
+                // Encontra o índice usando uma condição
+                int indiceJoao = alunos.FindIndex(aluno => aluno == "João");
+                Console.WriteLine("Índice do João: " + indiceJoao);
+
                 alunos.Sort();
 
                 Console.WriteLine("\nLista ordenada:");
