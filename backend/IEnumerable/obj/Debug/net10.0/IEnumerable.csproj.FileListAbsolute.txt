@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\IEnumerable\bin\Debug\net10.0\IEnumerable.exe
+C:\Users\Usuario\source\repos\IEnumerable\bin\Debug\net10.0\IEnumerable.deps.json
+C:\Users\Usuario\source\repos\IEnumerable\bin\Debug\net10.0\IEnumerable.runtimeconfig.json
+C:\Users\Usuario\source\repos\IEnumerable\bin\Debug\net10.0\IEnumerable.dll
+C:\Users\Usuario\source\repos\IEnumerable\bin\Debug\net10.0\IEnumerable.pdb
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.dll
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\refint\IEnumerable.dll
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.pdb
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumerable.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\ref\IEnumerable.dll
+C:\Users\Usuario\source\repos\IEnumerable\obj\Debug\net10.0\IEnumera.6237F5A4.Up2Date
