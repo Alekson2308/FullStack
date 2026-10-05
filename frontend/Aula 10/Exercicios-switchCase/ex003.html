@@ -1,0 +1,29 @@
+<script>
+   const nota = prompt("Digite a nota do aluno (A-F):").trim().toUpperCase();
+
+   switch(nota) {
+    case A:
+     mensagem = "Execelente"
+     break;
+    case B:
+     mensagem = "Bom"
+     break;
+    case C:
+     mensagem = "Regular"
+     break;
+    case D:
+     mensagem = "Ruim"
+     break;
+     case E:
+     mensagem = "Recuperação"
+     break;
+    case F:
+     mensagem = "Reprovado"
+     break;
+    default:
+     mensagem = "Conceito Inválido"
+     break;
+   }
+
+   document.write(`<h2>${mensagem}<h2>`);
+</script>

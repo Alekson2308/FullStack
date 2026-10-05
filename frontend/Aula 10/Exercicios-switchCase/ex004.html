@@ -1,0 +1,18 @@
+<script>
+   const bebida = prompt("Escolha sua bebida (água, refrigerante, suco):").trim().toLowerCase();
+
+   switch(bebida) {
+    case "água":
+     document.write('<h2 style="color: cyan;">Água</h2>')
+     break;
+    case "refrigerante":
+     document.write('<h2 style="color: orange;">Refrigerante</h2>')
+     break;
+    case "suco":
+     document.write('<h2 style="color: purple;">Suco</h2>')
+     break;
+    default:
+     document.write('opção inválida')
+     break;
+   }
+</script>

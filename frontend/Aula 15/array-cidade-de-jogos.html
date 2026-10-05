@@ -1,0 +1,14 @@
+<script>
+    const cidadesficticias = ["Radiator Springs - Carros", "LEGO City - LEGO", "Iacon - Cybertorn (Transformers)", "Kaon - Cybertorn (Transformers)", "Ninjago City - LEGO", "Bloxburg - Roblox", "Green Hills - Sonic (Filme)", "Red Grave - Devil May Cry", "Fortuna - Devil May Cry", "Gotham - DC/Batman", "Metropolis - DC/Superman", "Monstropolis - Monstros S.A.", "Neverwinter - Forgotten Realms (D&D)", "Baldur's Gate - Forgotten Realms (D&D)"];
+
+    console.log(cidadesficticias);
+
+    cidadesficticias.push("Anor Londo - Dark Souls"); //"Adiciona o ultimo array da lisa"
+    //cidadesficticias.pop() "Remove o ultimo array da lisa"
+    //cidadesficticias.shift() "Remove ao primeiro array da lista"
+    cidadesficticias.unshift("Night City - Cyberpunk 2077") //"Adiciona ao primeiro array da lisa"
+
+    for (let cidade of cidadesficticias) {
+      document.write(`<h2> Cidade: ${cidade} </h2>`);
+    }
+</script>

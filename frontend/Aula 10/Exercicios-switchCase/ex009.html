@@ -1,0 +1,29 @@
+<script>
+  const produto = prompt("Digite um produto:");
+  let categoiria;
+
+  switch(produto) {
+    case "maça":
+    case "banana":
+    case "laranja":
+      categoiria = "Fruta";
+      break;
+      
+    case "Cenoura":
+    case "Batata":
+    case "Brócolis":
+      categoiria = "Legumes";
+      break;
+
+    case "Carne":
+    case "Frango":
+    case "Whey":
+      categoiria = "Proteínas";
+      break;
+    default:
+     categoiria = "Categoiria Desconhecida"
+     break;  
+  }
+
+  document.write(`${categoiria}`)
+</script>

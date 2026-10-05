@@ -1,0 +1,14 @@
+<script>
+    const cidades = ["Tokyo", "Paris", "Bogotá", "Rio de Janeiro", "Shibuya", "Los Angeles", "Chicago", "Barcelona", "Lisboa", "São Paulo", "Miami", "Transilvania", "Pripyat", "Kiev", "Nova York", "Nova Orleans", "Londres", "Moscow", "Florida"];
+
+    console.log(cidades);
+
+    cidades.push("Teresópolis"); //"Adiciona o ultimo array da lisa"
+    //cidades.pop() "Remove o ultimo array da lisa"
+    //cidades.shift() "Remove ao primeiro array da lista"
+    cidades.unshift("Florida") //"Adiciona ao primeiro array da lisa"
+
+    for (let cidade of cidades) {
+      document.write(`<h2> Cidade: ${cidade} </h2>`);
+    }
+</script>
