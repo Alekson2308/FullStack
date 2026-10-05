@@ -15,6 +15,8 @@
 
                 Console.WriteLine("Quantidade de alunos: " + alunos.Count);
 
+                Console.WriteLine("==================================");
+
                 bool existeAna = alunos.Contains("Ana");
                 Console.WriteLine("Ana está na lista? " + existeAna);
 
@@ -24,6 +26,8 @@
                 int indiceJoao = alunos.FindIndex(aluno => aluno == "João");
                 Console.WriteLine("Índice do João: " + indiceJoao);
 
+                Console.WriteLine("==================================");
+
                 alunos.Sort();
 
                 Console.WriteLine("\nLista ordenada:");
@@ -32,6 +36,8 @@
                     Console.WriteLine(aluno);
                 }
 
+                Console.WriteLine("==================================");
+
                 alunos.Reverse();
 
                 Console.WriteLine("\nLista invertida:");
@@ -39,6 +45,8 @@
                 {
                     Console.WriteLine(aluno);
                 }
+
+                Console.WriteLine("==================================");
 
                 alunos.Remove("João");
 

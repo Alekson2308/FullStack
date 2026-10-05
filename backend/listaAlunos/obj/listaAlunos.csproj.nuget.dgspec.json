@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\FullStack\\backend\\listaAlunos\\listaAlunos.csproj": {}
+    "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\backend\\listaAlunos\\listaAlunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\FullStack\\backend\\listaAlunos\\listaAlunos.csproj": {
+    "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\backend\\listaAlunos\\listaAlunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\FullStack\\backend\\listaAlunos\\listaAlunos.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\backend\\listaAlunos\\listaAlunos.csproj",
         "projectName": "listaAlunos",
-        "projectPath": "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\FullStack\\backend\\listaAlunos\\listaAlunos.csproj",
+        "projectPath": "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\backend\\listaAlunos\\listaAlunos.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\FullStack\\backend\\listaAlunos\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\development\\fullstack\\seg19h\\alexandreMoreira\\backend\\listaAlunos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
