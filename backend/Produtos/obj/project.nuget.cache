@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "REAevIk91so=",
+  "dgSpecHash": "m3SuVJUTKY0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\source\\repos\\Produtos\\Produtos.csproj",
+  "projectFilePath": "D:\\Usuario\\Downloads\\FullStack-main\\FullStack-main\\backend\\Produtos\\Produtos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
   ],
   "logs": []
 }

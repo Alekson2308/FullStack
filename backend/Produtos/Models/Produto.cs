@@ -9,36 +9,53 @@ internal class Produto : IProduto
 {
     public string AvaliarProduto()
     {
-        return "Produto avaliado com sucesso";
+        return "Produto avaliado com sucesso!";
     }
 
     public double CalcularEstoque()
     {
-        throw new NotImplementedException();
+        int quantidade = 50;
+        double valorUnitario = 25.90;
+
+        return quantidade * valorUnitario;
     }
 
     public double CalcularTotalDaCompra()
     {
-        throw new NotImplementedException();
+        double preco = 100.00;
+        int quantidade = 3;
+
+        return preco * quantidade;
     }
 
     public string EscolherOpcoes()
     {
-        throw new NotImplementedException();
+        return "Opção selecionada: Produto padrão.";
     }
 
     public double ExibirValor()
     {
-        throw new NotImplementedException();
+        double preco = 99.90;
+
+        return preco;
     }
 
     public string RealizarCompra()
     {
-        throw new NotImplementedException();
+        return "Compra realizada com sucesso!";
     }
 
     public string VerificarEstoque()
     {
-        throw new NotImplementedException();
+        int quantidade = 50;
+
+        if (quantidade > 0)
+        {
+            return "Produto disponível em estoque!";
+        }
+        else
+        {
+            return "Produto indisponível em estoque!";
+        }
     }
 }
